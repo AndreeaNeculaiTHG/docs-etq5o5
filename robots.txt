@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-jt1ilj.suster1233weq.site/sitemap.xml
